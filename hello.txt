@@ -8,3 +8,5 @@ study git
 
 7777
 8888
+add some content to hello.txt
+
